@@ -1,0 +1,15 @@
+C:\School Stuff\Webshop_2021\EASV.Webshop2021.Domain\bin\Debug\net5.0\EASV.Webshop2021.Domain.deps.json
+C:\School Stuff\Webshop_2021\EASV.Webshop2021.Domain\bin\Debug\net5.0\EASV.Webshop2021.Domain.dll
+C:\School Stuff\Webshop_2021\EASV.Webshop2021.Domain\bin\Debug\net5.0\ref\EASV.Webshop2021.Domain.dll
+C:\School Stuff\Webshop_2021\EASV.Webshop2021.Domain\bin\Debug\net5.0\EASV.Webshop2021.Domain.pdb
+C:\School Stuff\Webshop_2021\EASV.Webshop2021.Domain\bin\Debug\net5.0\EASV.Webshop2021.Core.dll
+C:\School Stuff\Webshop_2021\EASV.Webshop2021.Domain\bin\Debug\net5.0\EASV.Webshop2021.Core.pdb
+C:\School Stuff\Webshop_2021\EASV.Webshop2021.Domain\obj\Debug\net5.0\EASV.Webshop2021.Domain.csproj.AssemblyReference.cache
+C:\School Stuff\Webshop_2021\EASV.Webshop2021.Domain\obj\Debug\net5.0\EASV.Webshop2021.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\School Stuff\Webshop_2021\EASV.Webshop2021.Domain\obj\Debug\net5.0\EASV.Webshop2021.Domain.AssemblyInfoInputs.cache
+C:\School Stuff\Webshop_2021\EASV.Webshop2021.Domain\obj\Debug\net5.0\EASV.Webshop2021.Domain.AssemblyInfo.cs
+C:\School Stuff\Webshop_2021\EASV.Webshop2021.Domain\obj\Debug\net5.0\EASV.Webshop2021.Domain.csproj.CoreCompileInputs.cache
+C:\School Stuff\Webshop_2021\EASV.Webshop2021.Domain\obj\Debug\net5.0\EASV.Webshop2021.Domain.csproj.CopyComplete
+C:\School Stuff\Webshop_2021\EASV.Webshop2021.Domain\obj\Debug\net5.0\EASV.Webshop2021.Domain.dll
+C:\School Stuff\Webshop_2021\EASV.Webshop2021.Domain\obj\Debug\net5.0\ref\EASV.Webshop2021.Domain.dll
+C:\School Stuff\Webshop_2021\EASV.Webshop2021.Domain\obj\Debug\net5.0\EASV.Webshop2021.Domain.pdb
